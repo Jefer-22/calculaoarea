@@ -1,0 +1,2 @@
+# calculaoarea
+practica en clase
